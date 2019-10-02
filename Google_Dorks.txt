@@ -15,56 +15,8 @@ related:
 link:
 
 
--site:php.net -"The PHP Group" inurl:source inurl:url ext:pHp
-!Host=*.* intext:enc_UserPassword=* ext:pcf
-?action=
-?cat=
-?id=
-?intitle:index.of? mp3 artist-name-here
-?intitle:index.of? mp3 name
-?page=
-?pagerequested=
-?pid=
-" -FrontPage-" ext:pwd inurl:(service | authors | administrators | users)
-": vBulletin Version 1.1.5"
-"# -FrontPage-" ext:pwd inurl:(service | authors | administrators | users) "# -FrontPage-" inurl:service.pwd
-"#mysql dump" filetype:sql
-"#mysql dump" filetype:sql 21232f297a57a5a743894a0e4a801fc3
-"A syntax error has occurred" filetype:ihtml
-"About Mac OS Personal Web Sharing"
-"access denied for user" "using password"
-"allow_call_time_pass_reference" "PATH_INFO"
-"An illegal character has been found in the statement" -"previous message"
-"apricot - admin" 00h
-"ASP.NET_SessionId" "data source="
-"AutoCreate=TRUE password=*"
-"bp blog admin" intitle:login | intitle:admin -site:johnny.ihackstuff.com
-"Can't connect to local" intitle:warning
-"Certificate Practice Statement" inurl:(PDF | DOC)
-"Chatologica MetaSearch" "stack tracking:"
-"Chatologica MetaSearch" "stack tracking"
-"detected an internal error [IBM][CLI Driver][DB2/6000]"
-"Duclassified" -site:duware.com "DUware All Rights reserved"
-"duclassmate" -site:duware.com
-"Dudirectory" -site:duware.com
-"dudownload" -site:duware.com
-"Dumping data for table"
-"DUpaypal" -site:duware.com
-"Elite Forum Version *.*"
-"Emergisoft web applications are a part of our"
-"Error Diagnostic Information" intitle:"Error Occurred While"
-"error found handling the request" cocoon filetype:xml
-"Establishing a secure Integrated Lights Out session with" OR intitle:"Data Frame - Browser not HTTP 1.1 compatible" OR intitle:"HP Integrated Lights-
-"Fatal error: Call to undefined function" -reply -the -next
-"ftp://" "www.eastgame.net"
-"Host Vulnerability Summary Report"
-"HostingAccelerator" intitle:"login" +"Username" -"news" -demo
-"html allowed" guestbook
-"HTTP_FROM=googlebot" googlebot.com "Server_Software="
-"http://*:*@www" domainname
-"iCONECT 4.1 :: Login"
-"IMail Server Web Messaging" intitle:login
-"Incorrect syntax near"
+DORKS:------------------------
+
 "Index of /" +.htaccess
 "Index of /" +passwd
 "Index of /" +password.txt
