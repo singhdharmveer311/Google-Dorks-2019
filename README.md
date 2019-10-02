@@ -7,7 +7,7 @@ Google Dorks List “Google Hacking” is mainly referred to pull the sensitive 
 ### How to use:
 Here could see an example to understand how Google Darks password used by hackers to gain sensitive information from specific websites.
 
-    “inurl: domain/” “additional dorks
+    “inurl:."domain"/“additional dorks" "
 
 A hacker would simply use in the desired parameters as follows:
 
