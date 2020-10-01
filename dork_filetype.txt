@@ -1,0 +1,555 @@
+" phpMyAdmin MySQL-Dump" filetype:txt
+"# Kickstart" filetype:cfg
+"# phpMyAdmin MySQL-Dump" filetype:txt
+"#mysql dump" filetype:sql
+"#mysql dump" filetype:sql 21232f297a57a5a743894a0e4a801fc3
+"A syntax error has occurred" filetype:ihtml
+"BEGIN RSA PRIVATE KEY" filetype:key -github
+"Calendar programming by AppIdeas.com" filetype:php
+"Declassified and Approved for Release by" filetype: pdf
+"Fenix Final Version v2.0" filetype:php
+"MAIL_PASSWORD" filetype:env
+"MacHTTP" filetype:log inurl:machttp.log
+"Parse error: parse error, unexpected T_VARIABLE" "on line" filetype:php
+"Powered by PHPFM" filetype:php -username
+"Powered by WordPress" -html filetype:php -demo -wordpress.org -bugtraq
+"Scanned by Camscanner" filetype:pdf
+"Software PBLang" 4.65 filetype:php
+"[HKEY_CURRENT_USER\Software\sota\FFFTP]" filetype:reg
+"admin account info" filetype:log
+"automatic teller" "operator manual" "password" filetype:pdf
+"contrasena" filetype:sql -github.com
+"database_password" filetype:yml "config/parameters.yml
+"database_password" filetype:yml "config/parameters.yml"
+"error found handling the request" cocoon filetype:xml
+"google confidential" filetype:pdf
+"information_schema" filetype:sql
+"keyed alike" site:gov filetype:pdf
+"login: *" "password= *" filetype:xls
+"mysql dump" filetype:sql
+"mysql dump" filetype:sql 21232f297a57a5a743894a0e4a801fc3
+"pass" "usuario" filetype:sql
+"passport" filetype:xls site:"*.edu.*" | site:"*.gov.*" | site:"*.com.*" | site:"*.org.*" | site:"*.net.*" | site:"*.mil.*"
+"phpMyAdmin MySQL-Dump" filetype:txt
+"powered by andromeda version" (filetype:php | filetype:asp)
+"robots.txt" "Disallow:" filetype:txt
+"robots.txt" + "Disallow:" filetype:txt
+"your default password is" filetype:pdf
+"your password is" filetype:log
+( filetype:mail | filetype:eml | filetype:mbox | filetype:mbx ) intext:password|subject
+("DMZ" | "Public IP" | "Private IP") filetype:xls
+(intext:mail AND intext:samAccountName) AND (filetype:xlsx OR filetype:xls OR filetype:csv OR filetype:txt)
+(inurl:"robot.txt" | inurl:"robots.txt" ) intext:disallow filetype:txt
+(inurl:”robot.txt” | inurl:”robots.txt” ) intext:disallow filetype:txt
+(username=* | username:* |) | ( ((password=* | password:*) | (passwd=* | passwd:*) | (credentials=* | credentials:*)) | ((hash=* | hash:*) | (md5:* | md5=*)) | (inurl:auth | inurl:passwd | inurl:pass) ) filetype:log
++":8080" +":3128" +":80" filetype:txt
++":8080? +":3128? +":80? filetype:txt
++":8080″ +":3128″ +":80″ filetype:txt
++htpasswd +WS_FTP.LOG filetype:log
++intext:"AWSTATS DATA FILE" filetype:txt
++inurl:"@" filetype:url +inurl:"ftp://"
+29. shoutbox/expanded.php filetypep:hp
+ACID "by Roman Danyliw" filetype:php
+BEGIN (CERTIFICATE|DSA|RSA) filetype:csr
+BEGIN (CERTIFICATE|DSA|RSA) filetype:key
+CakePHP filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values
+Codeigniter filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values
+ConnectionTest.java filetype:html
+DB_USERNAME filetype:env
+Google Dork inurl:Curriculum Vitale filetype:doc ( Vital Informaticon , Addres, Telephone Numer, SSN , Full Name, Work , etc ) In Spanish.
+List of Phone Numbers (In XLS File ) allinurl:telefonos filetype:xls
+MAIL_HOST filetype:env
+Navicat MySQL Data Transfer filetype:sql
+PHPKonsole PHPShell filetype:php -echo
+Phaser numrange:100-100000 Name DNS IP "More Printers" index help filetype:html | filetype:shtml
+[WFClient] Password= filetype:ica
+admin account info" filetype:log
+allintext:D.N.I filetype:xls
+allintitle: restricted filetype :mail
+allintitle: restricted filetype:doc site:gov
+allintitle: sensitive filetype:doc
+allintitle:restricted filetype:doc site:gov
+configuration> + filetype:config -github.com
+data filetype:mdb -site:gov -site:mil
+db_password filetype:env
+db_password filetype:env -site:github.com -git
+e-mail address filetype:csv csv
+eggdrop filetype:user user
+ext:adr adr filetype:adr "bookmarks.adr"
+ext:ini Robust.ini filetype:ini "password"
+ext:plist filetype:plist inurl:bookmarks.plist
+filetype: log inurl:"access.log" +intext:"HTTP/1.1"
+filetype:"xls | xlsx | doc | docx | ppt | pptx | pdf" site:gov "FOUO" | "NOFORN" | "Confidential"
+filetype:ASP ASP
+filetype:ASPX ASPX
+filetype:BML BML
+filetype:CFM CFM
+filetype:CGI CGI
+filetype:DIFF DIFF
+filetype:DLL DLL
+filetype:DOC DOC
+filetype:FCGI FCGI
+filetype:HTM HTM
+filetype:HTML HTML
+filetype:JHTML JHTML
+filetype:JSP JSP
+filetype:MV MV
+filetype:PDF PDF
+filetype:PHP PHP
+filetype:PHP3 PHP3
+filetype:PHP4 PHP4
+filetype:PHTML PHTML
+filetype:PL PL
+filetype:PPT PPT
+filetype:PS PS
+filetype:PS ps
+filetype:QBW qbw
+filetype:QDF QDF
+filetype:SHTML SHTML
+filetype:STM STM
+filetype:SWF SWF
+filetype:TXT TXT
+filetype:XLS XLS
+filetype:asmx inurl:(_vti_bin|api|webservice)
+filetype:asp   DBQ=" * Server.MapPath("*.mdb")
+filetype:asp  + "[ODBC SQL"
+filetype:asp "Custom Error Message" Category Source
+filetype:asp + "[ODBC SQL"
+filetype:asp + “[ODBC SQL”
+filetype:asp DBQ=" * Server.MapPath("*.mdb")
+filetype:asp DBQ=" Server.MapPath(".mdb")
+filetype:asp DBQ=\" * Server.MapPath(\"*.mdb\") 
+filetype:asp DBQ=” * Server.MapPath(“*.mdb”)
+filetype:asp intitle:" Microsoft Outlook Web Access"
+filetype:asp inurl:"shopdisplayproducts.asp"
+filetype:asp “Custom Error Message” Category Source
+filetype:avastlic
+filetype:bak (inurl:php | inurl:asp | inurl:rb)
+filetype:bak createobject sa
+filetype:bak inurl:"htaccess|passwd|shadow|htusers"
+filetype:bak inurl:\"htaccess|passwd|shadow|htusers\" 
+filetype:bak inurl:php "mysql_connect"
+filetype:bak inurl:”htaccess|passwd|shadow|htusers”
+filetype:bkf bkf
+filetype:blt "buddylist"
+filetype:blt blt +intext:screenname
+filetype:blt “buddylist”
+filetype:cfg "radius" (pass|passwd|password)
+filetype:cfg auto_inst.cfg
+filetype:cfg ks intext:rootpw -sample -test  -howto
+filetype:cfg ks intext:rootpw -sample -test -howto
+filetype:cfg login "LoginServer="
+filetype:cfg mrtg "target
+filetype:cfg mrtg "target[*]" -sample -cvs -example
+filetype:cfg mrtg “target
+filetype:cfm "cfapplication name" password
+filetype:cfm “cfapplication name” password
+filetype:cgi inurl:"Web_Store.cgi"
+filetype:cgi inurl:"fileman.cgi"
+filetype:cgi inurl:"irc.cgi" | intitle:"CGI:IRC Login"
+filetype:cgi inurl:cachemgr.cgi
+filetype:cgi inurl:nbmember.cgi
+filetype:cgi inurl:pdesk.cgi
+filetype:cgi inurl:tseekdir.cgi
+filetype:cgi inurl:”Web_Store.cgi”
+filetype:cgi inurl:”fileman.cgi”
+filetype:cgi transcoder.cgi
+filetype:cnf inurl:_vti_pvt access.cnf
+filetype:cnf my.cnf -cvs -example
+filetype:conf inurl:firewall -intitle:cvs
+filetype:conf inurl:firewall -intitle:cvs 
+filetype:conf inurl:proftpd. PROFTP FTP server configuration file reveals
+filetype:conf inurl:proftpd.conf -sample
+filetype:conf inurl:psybnc.conf  "USER.PASS="
+filetype:conf inurl:psybnc.conf "USER.PASS="
+filetype:conf inurl:psybnc.conf “USER.PASS=”
+filetype:conf inurl:unrealircd.conf -cvs -gentoo
+filetype:conf oekakibbs
+filetype:conf slapd.conf
+filetype:config "" "password" "web.config" -stackoverflow -youtube.com -github
+filetype:config config intext:appSettings "User ID"
+filetype:config config intext:appSettings “User ID”
+filetype:config inurl:web.config inurl:ftp
+filetype:config web.config -CVS
+filetype:ctl Basic
+filetype:ctt "msn"
+filetype:ctt Contact
+filetype:ctt ctt messenger
+filetype:cwr inurl:apstoken
+filetype:dat "password.dat
+filetype:dat "password.dat"
+filetype:dat \"password.dat\" 
+filetype:dat inurl:Sites.dat
+filetype:dat inurl:pass.dat
+filetype:dat wand.dat
+filetype:dat “password.dat
+filetype:dat “password.dat”
+filetype:doc "Answer Key"
+filetype:doc inurl:"gov" intext:"default password is"
+filetype:docx Domain Registrar $user $pass
+filetype:eml eml +intext:"Subject" +intext:"From"
+filetype:eml eml +intext:"Subject" +intext:"From" +intext:"To"
+filetype:eml eml +intext:\"Subject\" +intext:\"From\" +intext:\"To\" 
+filetype:eml eml +intext:”Subject” +intext:”From” +intext:”To”
+filetype:env intext:"APP_ENV"
+filetype:env intext:APP_NAME
+filetype:env intext:AWS_SECRET
+filetype:env intext:REDIS_PASSWORD
+filetype:env intext:mail_host + intext:bluehost
+filetype:fp3 fp3
+filetype:fp5 fp5 -site:gov -site:mil -"cvs log"
+filetype:fp5 fp5 -site:gov -site:mil -“cvs log”
+filetype:fp7 fp7
+filetype:git -github.com inurl:"/.git"
+filetype:gitattributes intext:CHANGELOG.md -site:github.com
+filetype:htaccess Basic
+filetype:htpasswd htpasswd
+filetype:inc OR filetype:bak OR filetype:old mysql_connect OR mysql_pconnect
+filetype:inc dbconn
+filetype:inc dbconn 
+filetype:inc inc intext:setcookie
+filetype:inc intext:mysql_connect
+filetype:inc mysql_connect OR mysql_pconnect
+filetype:inc mysql_connect OR mysql_pconnect 
+filetype:inc php -site:github.com -site:sourceforge.net
+filetype:inf inurl:capolicy.inf
+filetype:inf sysprep
+filetype:ini "Bootstrap.php" (pass|passwd|password|pwd)
+filetype:ini "FtpInBackground" (pass|passwd|password|pwd)
+filetype:ini "SavedPasswords" (pass|passwd|password|pwd)
+filetype:ini "This is the default settings file for new PHP installations"
+filetype:ini "[FFFTP]" (pass|passwd|password|pwd)
+filetype:ini "pdo_mysql" (pass|passwd|password|pwd)
+filetype:ini "precurio" (pass|passwd|password|pwd)
+filetype:ini "wordfence"
+filetype:ini Desktop.iniintext:mydocs.dll
+filetype:ini ServUDaemon
+filetype:ini inurl:"serv-u.ini"
+filetype:ini inurl:flashFXP.ini
+filetype:ini inurl:”serv-u.ini”
+filetype:ini wcx_ftp
+filetype:ini ws_ftp pwd
+filetype:jnlp
+filetype:ldb admin
+filetype:lic lic intext:key
+filetype:lit lit (books|ebooks)
+filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+filetype:log "See `ipsec --copyright"
+filetype:log "See `ipsec -copyright"
+filetype:log "See `ipsec –copyright"
+filetype:log access.log -CVS
+filetype:log cron.log
+filetype:log intext:"ConnectionManager2"
+filetype:log intext:"ConnectionManager2?
+filetype:log intext:"ConnectionManager2″
+filetype:log intext:org.apache.hadoop.hdfs
+filetype:log intext:password | pass | pw
+filetype:log intext:”ConnectionManager2″
+filetype:log inurl:"log" "[SERVER_SOFTWARE]"
+filetype:log inurl:"password.log"
+filetype:log inurl:password.log
+filetype:log inurl:”password.log”
+filetype:log username putty
+filetype:log username putty PUTTY SSH client logs can reveal usernames
+filetype:log “PHP Parse error” | “PHP Warning” | “PHP Error”
+filetype:log “See `ipsec –copyright”
+filetype:mbx mbx intext:Subject
+filetype:mdb "standard jet" (password | username | user | pass)
+filetype:mdb inurl:"news/news"
+filetype:mdb inurl:users.mdb
+filetype:mdb wwforum
+filetype:mny mny
+filetype:mobileconfig intext:password OR intext:pass
+filetype:myd myd -CVS
+filetype:myi myi -CVS
+filetype:netrc password
+filetype:ns1 ns1
+filetype:old (define)(DB_USER|DB_PASS|DB_NAME)
+filetype:old (mysql_connect) ()
+filetype:ora ora
+filetype:ora tnsnames
+filetype:pac inurl:"/proxy"
+filetype:pass pass intext:userid
+filetype:password jmxremote
+filetype:pcf "cisco" "GroupPwd"
+filetype:pcf vpn OR Group
+filetype:pcmcfg
+filetype:pdb pdb backup (Pilot | Pluckerdb)
+filetype:pdf "Assessment Report" nessus
+filetype:pdf "acunetix website audit" "alerts summary"
+filetype:pdf intitle:"SSL Report"
+filetype:pdf “Assessment Report” nessus
+filetype:pem "Microsoft"
+filetype:pem intext:private
+filetype:php "Git Deployment Script v0.1"
+filetype:php "Notice: Undefined variable: data in" -forum
+filetype:php -site:php.net intitle:phpinfo "published by the PHP Group"
+filetype:php HAXPLORER "Server Files Browser"
+filetype:php inanchor:c99 inurl:c99 intitle:c99shell -seeds -marijuana
+filetype:php intext:"!C99Shell v. 1.0 beta"
+filetype:php intext:"PROJECT HONEY POT ADDRESS DISTRIBUTION SCRIPT"
+filetype:php intext:Your Email: intext:Your Name: intext:Reply-To: intext:mailer
+filetype:php intitle:"paNews v2.0b4"
+filetype:php inurl:"/general/login.php?PHPSESSID="
+filetype:php inurl:"logging.php" "Discuz" error
+filetype:php inurl:"viewfile" -"index.php" -"idfil
+filetype:php inurl:"webeditor.php"
+filetype:php inurl:index inurl:phpicalendar -site:sourceforge.net
+filetype:php inurl:index.php inurl:"module=subjects" inurl:"func=*" (listpages| viewpage | listcat)
+filetype:php inurl:ipinfo.php "Distributed Intrusion Detection System"
+filetype:php inurl:ipinfo.php “Distributed Intrusion Detection System”
+filetype:php inurl:nqt intext:"Network Query Tool"
+filetype:php inurl:nqt intext:”Network Query Tool”
+filetype:php inurl:tiki-index.php +sirius +1.9.*
+filetype:php inurl:vAuthenticate
+filetype:php inurl:wiki (inurl:"SystemInfo" | inurl:FindPage| inurl:HelpContents| inurl:RecentChanges)
+filetype:php inurl:”logging.php” “Discuz” error
+filetype:php inurl:”webeditor.php”
+filetype:php login (intitle:phpWebMail|WebMail)
+filetype:php~ (pass|passwd|password|dbpass|db_pass|pwd)
+filetype:pl "Download: SuSE Linux Openexchange Server CA"
+filetype:pl -intext:"/usr/bin/perl" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)
+filetype:pl intitle:"Ultraboard Setup"
+filetype:pl intitle:”Ultraboard Setup”
+filetype:pl “Download: SuSE Linux Openexchange Server CA”
+filetype:png | "proportal"
+filetype:pot inurl:john.pot
+filetype:properties inurl:db intext:password
+filetype:psp intitle:"Motorola - FX9500"
+filetype:pst inurl:"outlook.pst"
+filetype:pst inurl:”outlook.pst”
+filetype:pst pst -from -to -date
+filetype:pub "ssh-rsa"
+filetype:pub inurl:ssh
+filetype:pwd intitle:index
+filetype:pwd service
+filetype:pwl pwl
+filetype:qbb qbb
+filetype:r2w r2w
+filetype:rcf inurl:vpn
+filetype:rdp default.rdp
+filetype:rdp rdp
+filetype:reg "Terminal Server Client"
+filetype:reg reg +intext:"defaultusername" +intext:"defaultpassword"
+filetype:reg reg +intext:"internet account manager"
+filetype:reg reg +intext:\"defaultusername\" +intext:\"defaultpassword\" 
+filetype:reg reg +intext:Ã¢? WINVNC3Ã¢?
+filetype:reg reg +intext:ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂWINVNC3ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â
+filetype:reg reg +intext:â? WINVNC3â?
+filetype:reg reg +intext:”defaultusername” +intext:”defaultpassword”
+filetype:reg reg +intext:…….WINVNC3…….
+filetype:reg reg HKEY_ Windows Registry exports can reveal
+filetype:reg reg HKEY_CLASSES_ROOT -git
+filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS
+filetype:reg reg HKEY_CURRENT_USER intext:password
+filetype:reg reg HKEY_CURRENT_USER username
+filetype:reg reg HKEY_USERS -git
+filetype:reg reg [HKEY_CURRENT_USERSoftware] -git
+filetype:reg “Terminal Server Client”
+filetype:sql "MySQL dump" (pass|password|passwd|pwd)
+filetype:sql "PostgreSQL database dump" (pass|password|passwd|pwd)
+filetype:sql "insert into" (pass|passwd|password)
+filetype:sql "phpmyAdmin SQL Dump" (pass|password|passwd|pwd)
+filetype:sql ("passwd values" | "password values" | "pass values" )
+filetype:sql ("values * MD5" | "values * password" | "values * encrypt")
+filetype:sql ("values * MD5? | "values * password" | "values * encrypt")
+filetype:sql ("values * MD5″ | "values * password" | "values * encrypt")
+filetype:sql ("values MD5" | "values password" | "values encrypt")
+filetype:sql (\"passwd values\" | \"password values\" | \"pass values\" ) 
+filetype:sql (\"values * MD\" | \"values * password\" | \"values * encrypt\") 
+filetype:sql (“values * MD5” | “values * password” | “values * encrypt”)
+filetype:sql +"IDENTIFIED BY" -cvs
+filetype:sql +”IDENTIFIED BY” -cvs
+filetype:sql insite:pass && user
+filetype:sql intext:password | pass | passwd intext:username intext:INSERT INTO `users` VALUES
+filetype:sql intext:wp_users phpmyadmin
+filetype:sql inurl:wp-content/backup-*
+filetype:sql password
+filetype:sql password 
+filetype:sql site:com and "insert into" admin "2014"
+filetype:sql site:gov and "insert into"
+filetype:sql “insert into” (pass|passwd|password)
+filetype:svn -gitlab -github inurl:"/.svn"
+filetype:swf inurl:xml site:http://target.com
+filetype:torrent torrent
+filetype:tpl intext:mysql_connect
+filetype:txt "License Key"
+filetype:txt "Registration Code"
+filetype:txt "gmail" | "hotmail" | "yahoo" -robots site:gov | site:us
+filetype:txt $9$ JunOS
+filetype:txt Administrator:500:
+filetype:txt inurl:wp-config.txt
+filetype:txt inurl:~~Wordpress2.txt
+filetype:txt line vty 0 4
+filetype:url +inurl:"ftp://" +inurl:";@"
+filetype:url +inurl:"ftp://" +inurl:"@"
+filetype:url +inurl:\"ftp://\" +inurl:\";@\" 
+filetype:url +inurl:”ftp://” +inurl:”;@”
+filetype:vcs vcs
+filetype:vsd vsd network -samples -examples
+filetype:wab wab
+filetype:wsdl wsdl
+filetype:xls "nomina"
+filetype:xls "username | password"
+filetype:xls + password + inurl:.com
+filetype:xls -site:gov inurl:contact
+filetype:xls inurl:"email.xls"
+filetype:xls inurl:"password.xls"
+filetype:xls inurl:”email.xls”
+filetype:xls username password email
+filetype:xls | xlsx intext:cisco -cisco.com site:.gov
+filetype:xls | xlsx intext:software license site:.gov
+filetype:xml config.xml passwordHash Jenkins
+filetype:xml inurl:/WEB-INF/ inurl:ftp:// -www
+filetype:xml inurl:sitemap
+filetypedql{valuesmd5|values|password
+filetypeincintextmysql_connect
+filetypeincmysql_connectORmysql_pconnect
+filetypesqlinsertinto{pass|passwd|password}
+filetypesqlpassword
+intext:"#mysql dump" filetype:sql
+intext:"#mysql dump" filetype:sql 21232f297a57a5a743894a0e4a801fc3
+intext:"@gmail.com" AND intext:"@yahoo.com" filetype:sql
+intext:"A syntax error has occurred" filetype:ihtml
+intext:"Certificate Practice Statement" filetype:PDF | DOC
+intext:"Full path to a .htpasswd file in this dir:" filetype:php
+intext:"Please enter your new password" inurl:login filetype:php
+intext:"Powered By : SE Software Technologies" filetype:php
+intext:"Session Start * * * *:*:* *" filetype:log
+intext:"Session Start :: " filetype:log
+intext:"Web Design by Webz" filetype:asp
+intext:"Welcome to the Web V.Networks" intitle:"V.Networks [Top]" -filetype:htm
+intext:"aspx" filetype:txt login & password
+intext:"eav" filetype:txt
+intext:"expects parameter 1 to be resource, boolean given" filetype:php
+intext:"login" department | admin | manager | company | host filetype:xls | xlsx -community -github
+intext:"phpMyAdmin MySQL-Dump" filetype:txt
+intext:"please enter your username and password" inurl:login filetype:php
+intext:"rabbit_password" | "service_password" filetype:conf
+intext:"wordpress" filetype:xls login & password
+intext:(password | passcode) intext:(username | userid | user)   filetype:csv
+intext:(password | passcode) intext:(username | userid | user) filetype:csv
+intext:Table structure for table `wp_users` filetype:sql
+intext:define('AUTH_KEY',     ' wp-config.php filetype:txt
+intext:http | https intext:login | logon intext:password | passcode filetype:xls | filetype:xlsx
+intext:jdbc:oracle filetype:java
+intext:password "Login Info" filetype:txt
+intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`id`, `user`, `password`) VALUES -github
+intext:reports filetype:cache
+intext:smtp | pop3 intext:login | logon intext:password | passcode filetype:xls | filetype:xlsx
+intext:vmware virtual site:.gov filetype:xls | xlsx | doc | pdf
+intext:”Powered By : SE Software Technologies” filetype:php
+intext:”Session Start * * * *:*:* *” filetype:log
+intext:”Welcome to the Web V.Networks” intitle:”V.Networks [Top]” -filetype:htm
+intextpassword | passcode)   intextusername | userid | user) filetype:csv
+intextpassword | passcode) intextusername | userid | user) filetype:csv
+intitle:"-N3t" filetype:php undetectable
+intitle:"Error Occurred While Processing Request" +WHERE (SELECT|INSERT) filetype:cfm
+intitle:"Error Occurred" "The error occurred in" filetype:cfm
+intitle:"Kurant Corporation StoreSense" filetype:bok
+intitle:"Network Print Server" filetype:shtm ( inurl:u_printjobs | inurl:u_server | inurl:a_server | inurl:u_generalhelp | u_printjobs )
+intitle:"Network Print Server" intext:"http://www.axis.com" filetype:shtm
+intitle:"Novell Web Services" "GroupWise" -inurl:"doc/11924" -.mil -.edu -.gov -filetype:pdf
+intitle:"Novell Web Services" "GroupWise" -inurl:"doc/11924? -.mil -.edu -.gov -filetype:pdf
+intitle:"Novell Web Services" "GroupWise" -inurl:"doc/11924″ -.mil -.edu -.gov -filetype:pdf
+intitle:"PHP Shell *" "Enable stderr" filetype:php
+intitle:"curriculum vitae" filetype:doc
+intitle:"index of" inurl:/*sql* filetype:log
+intitle:"osCommerce" inurl:admin filetype:php
+intitle:"phpremoteview" filetype:php "Name, Size,
+intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:pdf
+intitle:"webadmin - /*" filetype:php directory filename permission
+intitle:"webadmin – /*" filetype:php directory filename permission
+intitle:admbook intitle:version filetype:php
+intitle:index.of "admin" filetype:sql
+intitle:”Error Occurred While Processing Request” +WHERE (SELECT|INSERT) filetype:cfm
+intitle:”Error Occurred” “The error occurred in” filetype:cfm
+intitle:”Kurant Corporation StoreSense” filetype:bok
+intitle:”Novell Web Services” “GroupWise” -inurl:”doc/11924″ -.mil -.edu -.gov -filetype:pdf
+intitle:”curriculum vitae” filetype:doc
+inurl: mil|/issue.php filetype:xls
+inurl:"/Application Data/Filezilla/*" OR inurl:"/AppData/Filezilla/*" filetype:xml
+inurl:"ftp" intext:"user" | "username" | "userID" | "user ID" | "logon" | "login" intext:"password" | "passcode" filetype:xls | filetype:xlsx
+inurl:"passes" OR inurl:"passwords" OR inurl:"credentials" -search -download -techsupt -git -games -gz -bypass -exe filetype:txt @yahoo.com OR @gmail OR @hotmail OR @rediff
+inurl:"smb.conf" intext:"workgroup" filetype:conf
+inurl:"smb.conf" intext:"workgroup" filetype:conf conf
+inurl:"struts" filetype:action
+inurl:"tiki-index.php" filetype:php "This is TikiWiki 1.9"
+inurl:"webadmin" filetype:nsf
+inurl:*db filetype:mdb
+inurl:/dana-na/ filetype:cgi
+inurl:/dana/home/ filetype:cgi
+inurl:/dbcp.properties + filetype:properties -github.com
+inurl:/files/_log/ filetype:log
+inurl:/host.txt + filetype:txt + "password"
+inurl:/php-errors.log filetype:log
+inurl:/secure/attachment/ filetype:log OR filetype:txt
+inurl:/wp-content/uploads/ filetype:sql
+inurl:admin filetype:asp inurl:userlist
+inurl:admin filetype:db
+inurl:admin filetype:xls
+inurl:admin intext:username= AND email= AND password= OR pass= filetype:xls
+inurl:backup filetype:mdb
+inurl:ccbill filetype:log
+inurl:clientaccesspolicy filetype:xml intext:allow-from
+inurl:composer.json filetype:json -site:github.com
+inurl:courier/web/ inurl:wmLogin.html filetype:html
+inurl:crossdomain filetype:xml intext:allow-access-from
+inurl:db filetype:mdb
+inurl:email filetype:mdb
+inurl:forum filetype:mdb
+inurl:forward filetype:forward -cvs
+inurl:ftp "password" filetype:xls
+inurl:htpasswd filetype:htpasswd
+inurl:irc filetype:cgi cgi:irc
+inurl:lilo.conf filetype:conf password -tatercounter2000 -bootpwd -man
+inurl:login filetype:swf swf
+inurl:login.aspx filetype:aspx intext:"TMW Systems"
+inurl:login.txt filetype:txt
+inurl:mikrotik filetype:backup
+inurl:nquser.php filetype:php
+inurl:nuke filetype:sql
+inurl:perform filetype:ini
+inurl:perform.ini filetype:ini
+inurl:php.exe filetype:exe -example.com
+inurl:php.ini filetype:ini
+inurl:pipermail filetype:txt
+inurl:profiles filetype:mdb
+inurl:robpoll.cgi filetype:cgi
+inurl:ssl.conf filetype:conf
+inurl:tar filetype:gz
+inurl:webArch/mainFrame filetype:cgi intext:"Web Image Monitor"
+inurl:webalizer filetype:png -.gov -.edu -.mil -opendarwin
+inurl:webvpn.html "login" "Please enter your" Login ("admin account info") filetype:log
+inurl:webvpn.html “login” “Please enter your” Login (“admin account info”) filetype:log
+inurl:wp-content/uploads filetype:xls | filetype:xlsx password
+inurl:ws_ftp.ini "[WS_FTP]" filetype:ini
+inurl:~/ftp://193 filetype:(php | txt | html | asp | xml | cnf | sh) ~'/html'
+inurl:~~joomla3.txt filetype:txt
+inurl:”smb.conf” intext:”workgroup” filetype:conf conf
+jmeter.log filetype:log
+log inurl:linklint filetype:txt -"checking"
+mail filetype:csv -site:gov intext:name
+phpLDAPadmin intitle:phpLDAPadmin filetype:php inurl:tree.php | inurl:login.php | inurl:donate.php (0.9.6 | 0.9.7)
+s3 site:amazonaws.com filetype:log
+s3 site:amazonaws.com filetype:sql
+s3 site:amazonaws.com filetype:xls login
+s3 site:amazonaws.com filetype:xls password
+s3 site:amazonaws.com intext:dhcp filetype:txt inurl:apollo
+signin filetype:url
+site:com inurl:jboss filetype:log -github.com
+site:dl.dropbox.com filetype:pdf cv OR curriculum vitae OR resume
+site:github.com filetype:md | filetype:js | filetype:txt "xoxp-"
+site:mediafire.com cv Or resume OR curriculum vitae filetype:pdf OR doc
+site:stashbox.org cv Or resume OR curriculum vitae filetype:pdf OR doc
+xamppdirpasswd.txt filetype:txt
+“#mysql dump” filetype:sql
+“#mysql dump” filetype:sql 21232f297a57a5a743894a0e4a801fc3
+“A syntax error has occurred” filetype:ihtml
+“MacHTTP” filetype:log inurl:machttp.log
+“Parse error: parse error, unexpected T_VARIABLE” “on line” filetype:php
+“error found handling the request” cocoon filetype:xml
+“mysql dump” filetype:sql
+“phpMyAdmin MySQL-Dump” filetype:txt
+“robots.txt” “Disallow:” filetype:txt
+“your password is” filetype:log
