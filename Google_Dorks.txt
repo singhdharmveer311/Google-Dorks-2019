@@ -4111,4 +4111,4 @@ intitle:"Swagger UI - " + "Show/Hide"
 site:drive.google.com /preview intext:movie inurl:flv | wmv | mp4 -pdf -edit -view
 intext:"class JConfig {" inurl:configuration.php
 "index of" "database.sql.zip"
-
+site:*/account/lost_password
